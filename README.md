@@ -11,13 +11,13 @@ Backend Developer, Interested in Architecture and Infra
 
 ### ✨ Experiences 
 - **NPC of Dongduk Women's University**  
-  <sub>_Unity Developer & DB Admin (2021 - 2023)_</sub>
+  <sub>Unity Developer & DB Admin (2021 - 2023)</sub>
 
 - **AWS Cloud Club of DWU**  
   <sub>1st Crew (2023)</sub>
 
 - **LIKELION of DWU 11th**  
-  <sub>vCrew (2023)</sub>
+  <sub>Crew (2023)</sub>
 
 - **LIKELION of DWU 12th**  
   <sub>Crew Leader (2024)</sub>
