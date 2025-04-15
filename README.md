@@ -13,9 +13,12 @@ Backend Developer, Interested in Architecture and Infra
 - **NPC of Dongduk Women's University**  
   <sub>Unity Developer & DB Admin (2021 - 2023)</sub>
 
-- **AWS Cloud Club of DWU**  
-  <sub>1st Crew (2023)</sub>
-
+- **AWS Cloud Club of DWU 1st**  
+  <sub>Crew (2023)</sub>
+  
+- **goormthon univ 1st**  
+  <sub>Crew (2023)</sub>
+  
 - **LIKELION of DWU 11th**  
   <sub>Crew (2023)</sub>
 
